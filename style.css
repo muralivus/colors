@@ -1,0 +1,22 @@
+body{
+    background-color: #4a6e;
+}
+.header{
+    background-color: #8c46a4;
+    display: flex;
+    justify-content: space-between;
+}
+p,h2{
+    text-align: center;
+    color: #0a3d8f;
+    font-size: larger;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
